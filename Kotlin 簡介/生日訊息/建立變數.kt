@@ -1,6 +1,7 @@
 fun main() {
-    val
-    println("Happy Birthday, Rover!")
+    val age = 5*365
+    val name = "Rover"
+    println("Happy Birthday, ${name}!")
     
     // This is a commenat line
     println("   ,,,,,   ")
@@ -12,6 +13,6 @@ fun main() {
     println("")
     
     // This is another comment
-    print("You are already 5!\n")
-    print("5 is the very best age to celebrate!\n")
+    print("You are already ${age},${name}!\n")
+    print("${age} is the very best age to celebrate!\n")
 }
