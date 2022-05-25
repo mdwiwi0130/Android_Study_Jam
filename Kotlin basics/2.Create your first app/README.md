@@ -1,4 +1,4 @@
 # 建立第一個 Android 應用程式
 
-## 學習簡要
-- 
+## 簡要
+本次學習使用 [Android Studio](https://developer.android.com/studio) 製作Android 應用程式
